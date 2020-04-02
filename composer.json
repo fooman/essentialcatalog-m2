@@ -1,0 +1,10 @@
+{
+    "name": "fooman/essentialcatalog-m2",
+    "version": "1.0.0",
+    "license": "proprietary",
+    "require": {
+        "php": "~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0",
+        "fooman/essentialcatalog-implementation-m2": "100.0.0"
+    },
+    "type": "metapackage"
+}
