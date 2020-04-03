@@ -2,4 +2,4 @@
 
 ## [Unreleased]
 ### Added
-- Initial Release
+- Initial Release to restrict a Catalog to essential products

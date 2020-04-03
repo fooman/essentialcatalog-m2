@@ -1,10 +1,12 @@
 {
     "name": "fooman/essentialcatalog-m2",
+    "description": "Set non-essential products out of stock for your Magento 2.3+ store",
     "version": "1.0.0",
-    "license": "proprietary",
+    "license": "OSL-3.0",
     "require": {
-        "php": "~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0",
-        "fooman/essentialcatalog-implementation-m2": "100.0.0"
+        "php": "~7.1.3|~7.2.0|~7.3.0",
+        "magento/framework": "^102.0",
+        "fooman/essentialcatalog-implementation-m2": "100.0.2"
     },
     "type": "metapackage"
 }
