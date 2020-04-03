@@ -45,6 +45,9 @@ Alternatively you may wish to export and then re-import your complete catalog to
 * 0 for not essential
 * 1 for essential
 
+## Note
+This extension hooks into functionality provided by Magento Inventory aka MSI.
+
 ## Developer Note - Depending on EssentialCatalog
 If you are using EssentialCatalog to build functionality on top of please require the implementation package
 `composer require essentialcatalog-implementation-m2` instead as only that package will be semantically versioned.
