@@ -23,7 +23,7 @@ This package is available via packagist.org. Please use Composer to install the 
 ```
 bin/magento deploy:mode:set developer (if you are in production mode)
 composer require fooman/essentialcatalog-m2:^1.0
-bin/magento module:enable --clear-static-content Fooman_EmailAttachments
+bin/magento module:enable --clear-static-content Fooman_EssentialCatalog
 bin/magento setup:upgrade
 
 your usual sequence of commands to enable production mode, for example
