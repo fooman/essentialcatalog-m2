@@ -8,5 +8,6 @@
         "magento/framework": "^102.0",
         "fooman/essentialcatalog-implementation-m2": "100.0.2"
     },
-    "type": "metapackage"
+    "type": "metapackage",
+    "abandoned": true
 }
